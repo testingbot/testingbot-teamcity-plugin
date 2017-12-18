@@ -1,0 +1,9 @@
+*.class
+target/
+*.iml
+.idea/
+*.jar
+*.war
+*.ear
+hs_err_pid*
+.teamcity/
