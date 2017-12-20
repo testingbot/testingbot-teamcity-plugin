@@ -2,9 +2,9 @@
 <teamcity-plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:schemas-jetbrains-com:teamcity-plugin-v1-xml">
   <info>
     <name>testingbot-teamcity</name>
-    <display-name>TestingBot TeamCity Plugin</display-name>
+    <display-name>TestingBot</display-name>
     <version>@Version@</version>
-    <description>The TestingBot TeamCity plugin allows you to integrate your automated tests with TestingBot.</description>
+    <description>This plugin allows you to integrate your automated tests with TestingBot.</description>
     <download-url>https://testingbot.com/downloads/teamcity-plugin.zip</download-url>
     <email>info@testingbot.com</email>
     <vendor>
