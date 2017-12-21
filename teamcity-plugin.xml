@@ -3,7 +3,7 @@
   <info>
     <name>testingbot-teamcity</name>
     <display-name>TestingBot</display-name>
-    <version>@Version@</version>
+    <version>1.0</version>
     <description>This plugin allows you to integrate your automated tests with TestingBot.</description>
     <download-url>https://testingbot.com/downloads/teamcity-plugin.zip</download-url>
     <email>info@testingbot.com</email>

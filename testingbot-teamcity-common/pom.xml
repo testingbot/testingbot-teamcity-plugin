@@ -4,7 +4,7 @@
   <parent>
     <artifactId>testingbot-teamcity</artifactId>
     <groupId>com.testingbot.teamcity.plugin</groupId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
   </parent>
   <artifactId>testingbot-teamcity-common</artifactId>
   <packaging>jar</packaging>

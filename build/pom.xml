@@ -4,7 +4,7 @@
   <parent>
     <artifactId>testingbot-teamcity</artifactId>
     <groupId>com.testingbot.teamcity.plugin</groupId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
   </parent>
   <artifactId>build</artifactId>
   <packaging>pom</packaging>
@@ -18,17 +18,17 @@
       <dependency>
            <groupId>com.testingbot.teamcity.plugin</groupId>
            <artifactId>testingbot-teamcity-agent</artifactId>
-           <version>1.0-SNAPSHOT</version>
+           <version>1.0</version>
       </dependency>
       <dependency>
            <groupId>com.testingbot.teamcity.plugin</groupId>
            <artifactId>testingbot-teamcity-common</artifactId>
-           <version>1.0-SNAPSHOT</version>
+           <version>1.0</version>
       </dependency>
       <dependency>
            <groupId>com.testingbot.teamcity.plugin</groupId>
            <artifactId>testingbot-teamcity-server</artifactId>
-           <version>1.0-SNAPSHOT</version>
+           <version>1.0</version>
       </dependency>
   </dependencies>
   <build>
